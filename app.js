@@ -16,15 +16,15 @@ app.get('/', function(req, res) {
   res.render('index');
 });
 
-// PORTFOLIO ROUTE===============================
-app.get('/solutions', function(req, res) {
-  res.render('solutions');
-});
+// // PORTFOLIO ROUTE===============================
+// app.get('/solutions', function(req, res) {
+//   res.render('solutions');
+// });
 
-// CONTACT ROUTE===============================
-app.get('/signup', function(req, res) {
-  res.render('signup');
-});
+// // CONTACT ROUTE===============================
+// app.get('/signup', function(req, res) {
+//   res.render('signup');
+// });
 
 // LISTEN===============================================
 // app.listen(process.env.PORT, process.env.IP, function() {

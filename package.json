@@ -1,5 +1,5 @@
 {
-  "name": "pipeline",
+  "name": "dice-game-js",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cwooz/pipeline.git"
+    "url": "git+https://github.com/cwooz/pig-game-js.git"
   },
   "author": "wooz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cwooz/pipeline/issues"
+    "url": "https://github.com/cwooz/pig-game-js/issues"
   },
-  "homepage": "https://github.com/cwooz/pipeline#readme",
+  "homepage": "https://github.com/cwooz/pig-game-js#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "connect-flash": "^0.1.1",
