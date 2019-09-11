@@ -1,14 +1,31 @@
-# [pipeLine-1.0](https://fathomless-fjord-82651.herokuapp.com/)
+# [Dice Game](http://104.248.7.120:3006)
 
-Pipeline Project Homepage, powered by [javascript, react, node, express, sass](#).
+Dice Game made with pure JavaScript, powered by [javascript, node, express, mongodb, react, redux](#).
 
-##### Try version `1.0.0-beta` using the following [link](https://fathomless-fjord-82651.herokuapp.com/).  Thanks!
+##### Try version `1.0.0-beta` using the following [link](http://104.248.7.120:3006). Thanks!
 
+## To Install
+
+> Before you install, please insure you have the latest version of **Node**, **NPM**, and **Git** installed on your machine.
+
+## Building from sources
+
+```bash
+# Clone Repository
+git clone https://github.com/cwooz/pig-game-js
+# Install server dependencies
+npm install
+# Run Application
+node app.js
+# Build for production
+cd client
+npm run build
+```
 
 ## Built Using
 
 ```javascript
-import { React, MaterialUI, Node, Express, Router } from "dependencies";
+import { React, Redux, Node, Express, MongoDB } from 'dependencies';
 ```
 
-<img alt='Screen Shot' src="https://farm5.staticflickr.com/4809/45808197722_d13fda1548_o.jpg" width="890">
+<img alt='Screen Shot' src="./public/assets/img/readme_image.png" width="888">
