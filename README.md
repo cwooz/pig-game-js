@@ -1,6 +1,6 @@
 # [Dice Game](http://104.248.7.120:3006)
 
-Dice Game made with pure JavaScript, powered by [javascript, node, express, mongodb, react, redux](#).
+Dice Game made with pure JavaScript, powered by [javascript, node, express, html, css](#).
 
 ##### Try version `1.0.0-beta` using the following [link](http://104.248.7.120:3006). Thanks!
 
@@ -25,7 +25,7 @@ npm run build
 ## Built Using
 
 ```javascript
-import { React, Redux, Node, Express, MongoDB } from 'dependencies';
+import { JavaScript, Node, Express } from 'dependencies';
 ```
 
 <img alt='Screen Shot' src="./public/assets/img/readme_image.png" width="888">
